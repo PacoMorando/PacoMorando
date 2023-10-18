@@ -3,6 +3,7 @@
 I'am an Android and web developer full  México. 
 
 Self-taught, with 3 years of experience in learning and developing both frontend and backend for mobile and web applications, I have found a new passion in programming. 
+
 I'll thank you for any feedback that you can give me :)
 
 Tecnologies i kown:  
