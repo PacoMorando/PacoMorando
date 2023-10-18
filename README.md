@@ -3,8 +3,7 @@
 I'am an Android and web developer full  México. 
 
 Self-taught, with 3 years of experience in learning and developing both frontend and backend for mobile and web applications, I have found a new passion in programming. 
-
-I'm still on the journey of learning and developing my skills in coding and software design, so I'll thank you for any feedback that you can give me :)
+I'll thank you for any feedback that you can give me :)
 
 Tecnologies i kown:  
 SpringBoot, Angular, AndroidStudio, Java, TypeScript, MySQL, SQLite, Git/Github, HTML, XML.
